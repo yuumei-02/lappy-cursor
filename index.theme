@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=LappyCursor
+Name=lappy-cursor
 Comment=A sexy Lappland cursor theme me and W ported to X11/wayland
 Inherits=default
 Directories=cursors
